@@ -1,2 +1,3 @@
 # OS-Ass4-5785-Template
-Template repository for Operating systems course in 5785 / 2024.  Assignment 4 code and text file.
+
+Fill in this file with information about your submissions, including names, TZ, etc. as described in the assignment instructions.
